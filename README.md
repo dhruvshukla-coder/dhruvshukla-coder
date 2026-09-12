@@ -32,5 +32,5 @@
 **📫 Connect with me**
 
 * **GitHub:** [dhruvshukla-coder](https://github.com/dhruvshukla-coder)
-* **LinkedIn:** [Anukalp Shukla]([https://www.linkedin.com/in/YOUR-PROFILE-UR](https://www.linkedin.com/in/anukalp-shukla-377771413/)L)
+* **LinkedIn:** [Anukalp Shukla](https://www.linkedin.com/in/anukalp-shukla-377771413/)
 * **Location:** Uttar Pradesh, India
