@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there, I'm Anukalp Shukla 👋
 
-<!--
-**dhruvshukla-coder/dhruvshukla-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Core Student @ Lovely Professional University**
+🚀 **Aspiring Software Engineer** | Building foundations in Computer Science
+🌱 **Currently learning:** Python, HTML, Computational & Design Thinking
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Languages & Tools**
+
+* **Languages:** Python, HTML
+* **Core Focus:** Problem Solving, Computational Thinking, Engineering Graphics
+* **Version Control & Tools:** Git, GitHub, AutoCAD
+
+---
+
+**⭐ Featured Repositories**
+
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **CampusSync** | Collaborative student software project utilizing version control and pull requests for campus workflows. | Git, GitHub |
+
+---
+
+**📈 Academic Practice & Progress**
+
+* Actively documenting weekly academic progression, engineering skill development, and coursework milestones on LinkedIn.
+* Building a strong mathematical foundation, focusing on Linear Algebra and Matrices for future computational applications. 
+
+---
+
+**📫 Connect with me**
+
+* **GitHub:** [dhruvshukla-coder](https://github.com/dhruvshukla-coder)
+* **LinkedIn:** [Anukalp Shukla]([https://www.linkedin.com/in/YOUR-PROFILE-UR](https://www.linkedin.com/in/anukalp-shukla-377771413/)L)
+* **Location:** Uttar Pradesh, India
